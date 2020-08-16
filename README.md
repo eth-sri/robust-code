@@ -2,6 +2,16 @@
 
 This project contains the source code for the paper [Adversarial Robustness for Code](https://files.sri.inf.ethz.ch/website/papers/icml20_robust.pdf) presented at ICML'20.
 
+**Table of Contents**<br>
+1.  [Project Structure](#project-structure) <br>
+2.  [Installation](#installation) <br>
+3.  [Datasets](#datasets) <br>
+4.  [Models](#models) <br>
+5.  [Configurations](#configurations) <br> 
+6.  [Evaluation](#evaluation) <br>    
+7.  [Training](#training) <br>
+8.  [Citing this work](#citing-this-work) <br>
+
 ## Project Structure
 
 ```
