@@ -1,0 +1,18 @@
+{
+  "name": "typescript_parser",
+  "version": "1.0.0",
+  "description": "Parser and type inference for TypeScript",
+  "main": "parser.js",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "express": "^4.17.1",
+    "fork-pool": "^2.0.0",
+    "typescript": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./test.sh",
+    "start": "node server.js"
+  },
+  "license": "Apache-2.0"
+}

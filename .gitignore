@@ -1,0 +1,8 @@
+*.DS_Store
+venv*
+robustcode.egg-info
+data
+results
+__pycache__
+node_modules
+

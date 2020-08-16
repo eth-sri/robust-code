@@ -1,0 +1,6 @@
+.idea
+venv
+cache
+__pycache__
+tmp
+*.files
