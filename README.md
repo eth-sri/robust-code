@@ -381,3 +381,24 @@ time python train_sparse.py --config configs/ast_ggnn.ini --n_subtree=300 --n_re
 Here, `max_models=8` denotes that we want to train a chain of 8 models. 
 `--last_base` denotes that the last model should cover all the remaining samples.
 Note that when running with all the models, training will take several hours.
+
+# Citing This Work
+
+```
+@incollection{bielik20robust,
+  title = {Adversarial Robustness for Code},
+  author = {Bielik, Pavol and Vechev, Martin},
+  booktitle = {Proceedings of The 37rd International Conference on Machine Learning},
+  year = {2020},
+  series = {ICML'20}
+}
+```
+
+# Contributors
+
+* [Pavol Bielik](https://www.sri.inf.ethz.ch/people/pavol) - pavol.bielik@inf.ethz.ch
+
+# License and Copyright
+
+* Copyright (c) 2020 [Secure, Reliable, and Intelligent Systems Lab (SRI), ETH Zurich](https://www.sri.inf.ethz.ch/)
+* Licensed under the [Apache License](http://www.apache.org/licenses/)
