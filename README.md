@@ -404,10 +404,6 @@ Note that when running with all the models, training will take several hours.
 }
 ```
 
-# Contributors
-
-* [Pavol Bielik](https://www.sri.inf.ethz.ch/people/pavol) - pavol.bielik@inf.ethz.ch
-
 # License and Copyright
 
 * Copyright (c) 2020 [Secure, Reliable, and Intelligent Systems Lab (SRI), ETH Zurich](https://www.sri.inf.ethz.ch/)
