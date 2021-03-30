@@ -8,7 +8,7 @@ setup(
     author="SRI Lab, ETH Zurich",
     license="Apache License 2.0",
     install_requires=[
-        "pygments==2.4.2",
+        "pygments==2.7.4",
         "nltk>=3.4.5",
         "scikit-learn==0.21.2",
         "datasketch==1.4.5",
